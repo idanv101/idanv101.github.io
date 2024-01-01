@@ -3,34 +3,34 @@ entries:
   feature-atol:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-01T13:43:08.384199084+02:00"
+    created: "2024-01-01T14:01:56.937817248+02:00"
     description: A Helm chart for Kubernetes
     digest: c7f61239318a6f3c60a7cf5c8933e8b38b63fe01479bc3f65df6f2955f32adb8
     name: feature-atol
     type: application
     urls:
-    - https://github.com/idanv101/idanv101.github.io/feature-atol-0.1.0.tgz
+    - https://idanv101.github.io/feature-atol-0.1.0.tgz
     version: 0.1.0
   feature-avionics:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-01T13:43:08.384633592+02:00"
+    created: "2024-01-01T14:01:56.938062443+02:00"
     description: A Helm chart for Kubernetes
     digest: 7a1bfe20f6b56ed97a1029085383bceab6863d89eaefeee676adaae31814d3ce
     name: feature-avionics
     type: application
     urls:
-    - https://github.com/idanv101/idanv101.github.io/feature-avionics-0.1.0.tgz
+    - https://idanv101.github.io/feature-avionics-0.1.0.tgz
     version: 0.1.0
   feature-checklist:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-01T13:43:08.384997594+02:00"
+    created: "2024-01-01T14:01:56.938290769+02:00"
     description: A Helm chart for Kubernetes
     digest: 994a5cdf8e4bc836fced4be6c52b88fd6f1a5d1a75464705ab6244c5158c8d7c
     name: feature-checklist
     type: application
     urls:
-    - https://github.com/idanv101/idanv101.github.io/feature-checklist-0.1.0.tgz
+    - https://idanv101.github.io/feature-checklist-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-01T13:43:08.381956043+02:00"
+generated: "2024-01-01T14:01:56.937409401+02:00"
