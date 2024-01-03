@@ -3,9 +3,9 @@ entries:
   configuration-manager:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-02T07:59:01.699931633+02:00"
+    created: "2024-01-03T13:33:02.453747305+02:00"
     description: A Helm chart for Kubernetes
-    digest: 1eda697b7726377940f8479cf4b8af8d05c97d6983b09ecdea046c8b3dbb7926
+    digest: 8fd664b0cce4c000d0103522a6e2ac1fb1b10d33058187991c2514b0e44febc1
     name: configuration-manager
     type: application
     urls:
@@ -14,9 +14,9 @@ entries:
   feature-atol:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-02T07:59:01.700168938+02:00"
+    created: "2024-01-03T13:33:02.454000665+02:00"
     description: A Helm chart for Kubernetes
-    digest: c7f61239318a6f3c60a7cf5c8933e8b38b63fe01479bc3f65df6f2955f32adb8
+    digest: ec991547591ed31a28768997a48c625d45505eab7631c940661a5632d29b20b6
     name: feature-atol
     type: application
     urls:
@@ -25,9 +25,9 @@ entries:
   feature-avionics:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-02T07:59:01.700386183+02:00"
+    created: "2024-01-03T13:33:02.454205785+02:00"
     description: A Helm chart for Kubernetes
-    digest: 7a1bfe20f6b56ed97a1029085383bceab6863d89eaefeee676adaae31814d3ce
+    digest: e029fcab534fb3ceb3d3c189e466aff886f00cf716e24da78c2f14b6437711c4
     name: feature-avionics
     type: application
     urls:
@@ -36,12 +36,12 @@ entries:
   feature-checklist:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-02T07:59:01.700603789+02:00"
+    created: "2024-01-03T13:33:02.454398939+02:00"
     description: A Helm chart for Kubernetes
-    digest: 994a5cdf8e4bc836fced4be6c52b88fd6f1a5d1a75464705ab6244c5158c8d7c
+    digest: 5dcc3f67d6c22085e4c3f014fbbd6fbe5f02ef6ca77f94d7865ce0270f5bff25
     name: feature-checklist
     type: application
     urls:
     - https://idanv101.github.io/feature-checklist-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-02T07:59:01.699715952+02:00"
+generated: "2024-01-03T13:33:02.45215147+02:00"
