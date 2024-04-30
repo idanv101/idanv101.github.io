@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: feature-react
+  namespace: ng-dev
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: feature-react
+  template:
+    metadata:
+      labels:
+        app: feature-react
+    spec:
+      containers:
+        - name: feature-react-container
+          image: busybox
+          command: ["sh", "-c", "while true; do sleep 1; done"]
